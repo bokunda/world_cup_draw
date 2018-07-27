@@ -1,0 +1,6 @@
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\bin\Release\BojanPiskulic_WCDraw.exe.config
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\bin\Release\BojanPiskulic_WCDraw.exe
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\bin\Release\BojanPiskulic_WCDraw.pdb
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\obj\Release\BojanPiskulic_WCDraw.csproj.CoreCompileInputs.cache
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\obj\Release\BojanPiskulic_WCDraw.exe
+C:\Users\bpisk\OneDrive\Desktop\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\BojanPiskulic_WCDraw\obj\Release\BojanPiskulic_WCDraw.pdb
